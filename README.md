@@ -10,6 +10,7 @@ If you want to contribute to this list, send a pull request. All contributors wi
 
 You can find all the books listed below in [**book**](/book) folder of this repo:
 
+* Bitcoin - Programming the Open Blockchain [[Download]](/book/Bitcoin%20-%20Programming%20the%20Open%20Blockchain.epub)
 * Bitcoin Essentials [[Download]](/book/Bitcoin%20Essentials.pdf)
 * Bitcoin for the Befuddled [[Download]](/book/Bitcoin%20for%20the%20Befuddled.pdf)
 * Blockchain - A Practical Guide to Developing Business, Law, and Technology Solutions [[Download]](/book/Blockchain%20-%20A%20Practical%20Guide%20to%20Developing%20Business%2C%20Law%2C%20and%20Technology%20Solutions.pdf)
